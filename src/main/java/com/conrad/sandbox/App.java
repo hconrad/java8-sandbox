@@ -1,4 +1,4 @@
-package com.conrad.java8-sandbox;
+package com.conrad.sandbox;
 
 /**
  * Hello world!
